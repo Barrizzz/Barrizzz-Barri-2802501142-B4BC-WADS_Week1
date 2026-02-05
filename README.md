@@ -7,4 +7,6 @@
 Here are the link to some websites: 
 1. https://www.codecademy.com/article/what-is-a-web-application-complete-guide-to-webapps
 
-2. 
+
+
+# IMAGES from the second article
