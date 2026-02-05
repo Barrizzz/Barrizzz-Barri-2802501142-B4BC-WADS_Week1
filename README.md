@@ -10,3 +10,6 @@ Here are the link to some websites:
 
 
 # IMAGES from the second article
+![alt text](image.png)
+
+![alt text](image-1.png)
