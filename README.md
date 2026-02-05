@@ -13,4 +13,5 @@ As web technologies continue to evolve, web applications are becoming increasing
 # Websites explaining about web application's security and its importance
 Link:
 https://www.mobindustry.net/blog/11-web-application-security-best-practices-you-need-to-know/
+(This article will provide the images we added)
 
