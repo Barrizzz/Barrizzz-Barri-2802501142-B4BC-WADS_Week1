@@ -4,3 +4,7 @@
 - Class: B4BC
 
 # Website explaining about web application
+Here are the link to some websites: 
+1. https://www.codecademy.com/article/what-is-a-web-application-complete-guide-to-webapps
+
+2. 
